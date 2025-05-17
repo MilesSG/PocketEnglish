@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主要颜色 -->
+    <color name="primary">#3F51B5</color>           <!-- 深蓝色 -->
+    <color name="primary_dark">#303F9F</color>      <!-- 更深的蓝色 -->
+    <color name="primary_light">#C5CAE9</color>     <!-- 浅蓝色 -->
+    <color name="accent">#FF4081</color>            <!-- 亮粉色作为强调色 -->
+    
+    <!-- 中性色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#F5F5F5</color>        <!-- 背景色 -->
+    <color name="medium_gray">#E0E0E0</color>       <!-- 分隔线 -->
+    <color name="dark_gray">#757575</color>         <!-- 次要文本 -->
+    <color name="black">#212121</color>             <!-- 主要文本 -->
+    
+    <!-- 功能色 -->
+    <color name="success">#4CAF50</color>           <!-- 绿色表示成功 -->
+    <color name="warning">#FFC107</color>           <!-- 黄色表示警告 -->
+    <color name="error">#F44336</color>             <!-- 红色表示错误 -->
+    <color name="info">#2196F3</color>              <!-- 蓝色表示信息 -->
+    
+    <!-- 原有颜色的保留（为了兼容性） -->
+    <color name="purple_200">#C5CAE9</color>        <!-- 替换为新的浅蓝色 -->
+    <color name="purple_500">@color/primary</color>
+    <color name="purple_700">@color/primary_dark</color>
+    <color name="teal_200">@color/accent</color>
+    <color name="teal_700">#C2185B</color>          <!-- 深粉色 -->
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="colorAccent">@color/accent</color>
+    <color name="Orange">@color/warning</color>
+    <color name="colorWhite">@color/white</color>
+    
+    <!-- 特定功能颜色 -->
+    <color name="grey">#E8F5E9</color>              <!-- 更新为浅绿色背景 -->
+    <color name="danci">#5C6BC0</color>             <!-- 单词相关颜色用靛蓝色 -->
+    <color name="danci_btn">#EEEEEE</color>         <!-- 单词按钮用浅灰色 -->
+</resources>
